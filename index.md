@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Site
+# Welcome to the courtyard
 
 
 [About Me](/about.md)
