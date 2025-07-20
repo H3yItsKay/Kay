@@ -10,7 +10,7 @@ title: Home
 
 [Blog](/blog.md)
 
-[Projects](/ProjectsHome.md)
+[Projects](/Projects/ProjectHome.md)
 
 
 This site is built with Jekyll and hosted on GitHub Pages!
