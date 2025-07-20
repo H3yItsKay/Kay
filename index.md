@@ -8,7 +8,7 @@ title: Home
 
 [About Me](/about.md)
 
-[Blog](/blog/)
+[Blog](/blog.html)
 
 
 [Projects](/Projects/ProjectHome.md)
