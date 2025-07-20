@@ -6,4 +6,6 @@ permalink: /about/
 
 # About Me
 
-Welcome to my about page!
+Hello my name is kayden kephart, A quazi maker and inventor. I hope to build all sorts of gadgets and gizmos.
+
+Updated 
