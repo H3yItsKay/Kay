@@ -7,6 +7,7 @@ title: Home
 
 
 [About Me](/about.md)
+[Blog](/blog.md)
 
 
 
