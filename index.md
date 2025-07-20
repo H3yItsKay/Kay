@@ -7,7 +7,8 @@ title: Home
 
 
 [About Me](/about.md)
-[Blog](/blog.md)
+
+[Blog](/post/blog.md)
 
 
 This site is built with Jekyll and hosted on GitHub Pages!
