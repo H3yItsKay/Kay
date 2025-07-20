@@ -8,7 +8,7 @@ title: Home
 
 [About Me](/about.md)
 
-[Blog]({{site.baseurl}}/blog/)
+[Blog](/blog/)
 
 
 [Projects](/Projects/ProjectHome.md)
