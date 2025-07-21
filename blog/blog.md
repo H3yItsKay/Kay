@@ -6,4 +6,4 @@ title: Blog
 
 # Post
 
-[P1](/post1.md)
+[P1](/post1/)
