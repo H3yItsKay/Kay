@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "My 2nd post"
-permalink: /blog/post2/
+permalink: /post2/
 ---
 
 # My 2nd post
