@@ -1,9 +1,12 @@
 ---
 layout: default
 title: Project1
-permalink: /Projecthome/
+permalink: /Project1/
 ---
 
 # Post 1
 
 Content here
+
+
+
